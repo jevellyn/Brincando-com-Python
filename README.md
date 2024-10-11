@@ -2,7 +2,7 @@ Ultilize a classe pegar_posicao para definir a posição do click em sua tela, a
 
 -Execute a classe pegar_posição;
 
--Rapidamente abra a página que deseja clicar e posicione o cursos do mouse;
+-Rapidamente abra a página que deseja clicar e posicione o cursor do mouse;
 
 -Aguarda uns segundos (o comando roda com um delay de 5 segundos);
 
