@@ -1,4 +1,4 @@
-Ultilize a classe pegar_posicao para definir a posição do click em sua tela, as coordenadas variam monitor para monitor.
+Ultilize a classe pegar_posicao para definir a posição do click em sua tela, as coordenadas variam de monitor para monitor.
 
 -Execute a classe pegar_posição;
 
